@@ -1,0 +1,5 @@
+*.o
+loader
+*.swp
+.vscode/
+.DS_Store
